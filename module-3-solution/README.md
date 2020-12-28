@@ -4,5 +4,5 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [OPEN](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-3/index.html)
+# To see the output [OPEN](https://hassamq.github.io/coursera_html_css_javascript/module-3-solution/index.html)
 
