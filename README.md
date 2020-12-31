@@ -19,4 +19,4 @@ This repository contains all of the source code used in the course called HTML, 
 * [Module-2](https://hassamq.github.io/coursera_html_css_javascript/module2-solution/index.html)
 * [Module-3](https://hassamq.github.io/coursera_html_css_javascript/module-3-solution/index.html)
 * [Module-4](https://hassamq.github.io/coursera_html_css_javascript/module-4-solution/index.html)
-* [Module-4](https://hassamq.github.io/coursera_html_css_javascript/module-4-solution/index.html)
+* [Module-5](https://hassamq.github.io/coursera_html_css_javascript/module-5solution/index.html)
