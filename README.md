@@ -2,7 +2,7 @@
 
 This repository contains all of the source code used in the course called HTML, CSS and Javascript for Web Developers in Coursera.
 
-![Course Completion certificate](https://coursera.org/share/c281bf50a30043ff6e25004208d8d2da)
+![Course Completion certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~C8B2HU4THQYG/CERTIFICATE_LANDING_PAGE~C8B2HU4THQYG.jpeg)
 
 
 # Assignments :
